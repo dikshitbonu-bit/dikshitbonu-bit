@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello there, I'm Dikshith 👋
 
-<!--
-**dikshitbonu-bit/dikshitbonu-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Iam a devops engineer breaking things in production so you don't have to. Learning DevOps one bash script at a time.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automating myself out of repetitive tasks
+- Linux and shell scripting (because clicking is for mortals)
+- Git workflows that actually make sense
+- Building tools that solve real problems
+
+## Skills
+
+**Working With:** Linux, Bash, Python, Git, GitHub Actions  
+**Learning:** Docker, Kubernetes, AWS, Terraform
+
+## Projects
+
+- [90-days-of-devops](https://github.com/dikshitbonu-bit/90DaysOfDevOps) - Daily DevOps challenge
+- [shell-scripts](https://github.com/dikshitbonu-bit/shell-scripts) - Scripts that save hours
+- [devops-notes](https://github.com/dikshitbonu-bit/Devops-notes) - Knowledge dump
+
+## Connect
+
+- LinkedIn: [https://www.linkedin.com/in/dikshith-bonu-17aab7125/]
+- Email: [dikshitbonu@gmail.com]
+
+
